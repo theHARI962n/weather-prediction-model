@@ -4,17 +4,17 @@ Overview
 
 This repository contains a weather prediction model implemented in Python with a graphical user interface (GUI) using Tkinter. The machine learning model is based on Logistic Regression.
 
-Requirements
+Requirements:
 
-Python 3.x
-Tkinter
-scikit-learn
+1.Python 3
+2.Tkinter
+3.sci-kit-learn
 
 Features
 
-Tkinter GUI: User-friendly interface for interacting with the weather prediction model.
-Logistic Regression Model: The underlying machine learning model used for weather predictions.
-Scikit-learn Integration: Leveraging the popular machine learning library for model training and evaluation.
+1.Tkinter GUI: User-friendly interface for interacting with the weather prediction model.
+2.Logistic Regression Model: The underlying machine learning model used for weather predictions.
+3.Scikit-learn Integration: Leveraging the popular machine learning library for model training and evaluation.
 
 Acknowledgments
 
