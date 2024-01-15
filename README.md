@@ -13,7 +13,11 @@ Requirements:
 Features
 
 1.Tkinter GUI: User-friendly interface for interacting with the weather prediction model.
+
+
 2.Logistic Regression Model: The underlying machine learning model used for weather predictions.
+
+
 3.Scikit-learn Integration: Leveraging the popular machine learning library for model training and evaluation.
 
 Acknowledgments
