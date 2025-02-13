@@ -1,5 +1,5 @@
 # weather-prediction-model
-APP project done by 668,639,649
+APP project done by 668,639,649 students
 Overview
 
 This repository contains a weather prediction model implemented in Python with a graphical user interface (GUI) using Tkinter. The machine learning model is based on Logistic Regression.
